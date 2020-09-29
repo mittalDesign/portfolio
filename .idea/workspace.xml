@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/workspace/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/360-feedback/feedback-service" value="PREVIEW" />
+        <entry key="C:/Workspace/AMX/amx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASX-New/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASX/New folder/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASX/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASX/checkin/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASX/zs3-ASX/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ASXcheckin/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/Apprisal/appraisal/appraisal-service" value="PREVIEW" />
+        <entry key="C:/Workspace/CLAP/LegalBot/legalbot-service" value="PREVIEW" />
+        <entry key="C:/Workspace/CLAP/clap-backend" value="PREVIEW" />
+        <entry key="C:/Workspace/Checkout_Jan/zeus-project" value="PREVIEW" />
+        <entry key="C:/Workspace/Legal Bot/legalbot-backend" value="PREVIEW" />
+        <entry key="C:/Workspace/LegalBot/legalbot-backend" value="PREVIEW" />
+        <entry key="C:/Workspace/LegalBot/legalbot-backend-admin" value="PREVIEW" />
+        <entry key="C:/Workspace/New folder/New folder/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/New folder/New folder/fianl/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/Project/Zeus/zeus-project" value="PREVIEW" />
+        <entry key="C:/Workspace/Project/Zeus/zeus-project/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/RASx/rasx" value="PREVIEW" />
+        <entry key="C:/Workspace/RAUI/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/RAUI/raUI 454/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/SKILL/skillprofile-service" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS/zeus-project" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS/zeus-project/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS/zeus-project/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS3 Asx/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS_PROJECT/zeus-project/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ZEUS_PROJECT/zeus-project/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/ZS3-RAUI/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/ZeusProject/zeus-project/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/ZeusProject/zeus-project/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/psx/psx" value="PREVIEW" />
+        <entry key="C:/Workspace/zeus/zeus-project" value="PREVIEW" />
+        <entry key="C:/Workspace/zeus/zeus-project/amx" value="PREVIEW" />
+        <entry key="C:/Workspace/zeus/zeus-project/asx" value="PREVIEW" />
+        <entry key="C:/Workspace/zeus/zeus-project/psx" value="PREVIEW" />
+        <entry key="C:/Workspace/zeus/zeus-project/ra-ui" value="PREVIEW" />
+        <entry key="C:/Workspace/zeusControl/zeus-control" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Shashank\AppData\Roaming\npm\node_modules\prettier" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
